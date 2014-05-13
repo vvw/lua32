@@ -1,5 +1,11 @@
+--[[
+ZeroBrane Studio ->Edit ->Preferences ->Setting:System
+path.lua = "d:/c32/LuaJIT-2.0.3/src/luajit"
+debugger.runonstart = true
+editor.defaulteol = wxstc.wxSTC_EOL_LF -- wxstc.wxSTC_EOL_CRLF or wxstc.wxSTC_EOL_LF
+editor.CodePage = wxstc.wxSTC_CP_UTF8
+--]]
 
----[==[
 local ffi = require "ffi"
 
 function cbuf(lstring_) 
@@ -137,12 +143,10 @@ function allrows (content)
 		   end
 end
 
--- 换行
 function normalLF(s)
   return string.gsub(s, "\r\n", "\n")
 end
 
--- 回车换行
 function normalCRLF(s)
   s = string.gsub(s, "\r\n", "\n")
   return string.gsub(s, "\n", "\r\n")
@@ -181,6 +185,6 @@ function extraWords(s)
   end
   return string.match(s, pat)
 end
---]==]
+
 --print('hi')
 
