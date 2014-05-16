@@ -48,18 +48,30 @@ local ResultCodes = {
     [lq.SQLITE_DONE]        = "SQLITE_DONE        101  /* sqlite3_step() has finished executing */",
 }
 
-local SQOK   = lq.SQLITE_OK
-local SQROW  = lq.SQLITE_ROW
-local SQDONE = lq.SQLITE_DONE
+SQOK   = lq.SQLITE_OK
+SQROW  = lq.SQLITE_ROW
+SQDONE = lq.SQLITE_DONE
 
-function check_stmt(stmtpp)
+local function check_stmt(stmtpp)
   assert(stmtpp    ~= nil) -- sqlite3_stmt **
   assert(stmtpp[0] ~= nil) -- sqlite3_stmt *
 end
 
-function check_stmt_icol(stmtpp, iCol)
+local function check_stmt_icol(stmtpp, iCol)
   check_stmt(stmtpp)
   assert (iCol ~= nil and iCol >= 0)
+end
+
+local function check_step(rc, stmtpp)
+  assert (rc ~= nil and stmtpp ~= nil)
+    if (rc ~= SQROW and
+     rc ~= SQDONE and 
+     rc ~= SQOK) 
+  then
+     sqFinalize(stmtpp);
+     DBERR("Error: %s in sqStep()", SQMG(c_db))
+     os.exit()
+  end
 end
 
 function SQMG(c_db)
@@ -148,18 +160,6 @@ function sqStep(c_db, stmtpp)
      DBERR("Error: %s in sqStep()", SQMG(c_db))
   end--]]
   return rc
-end
-
-function check_step(rc, stmtpp)
-  assert (rc ~= nil and stmtpp ~= nil)
-    if (rc ~= SQROW and
-     rc ~= SQDONE and 
-     rc ~= SQOK) 
-  then
-     sqFinalize(stmtpp);
-     DBERR("Error: %s in sqStep()", SQMG(c_db))
-     os.exit()
-  end
 end
 
 function sqExec(c_db, sq)
@@ -295,6 +295,7 @@ function foo()
   --]]
 end
 
+--[[
 local dbname = "./luasq/db/Maindb.db01"
 local isExist = sqIsDbExsit(dbname)
 print (isExist)
@@ -307,6 +308,6 @@ printkv(atest_sql)
 local sq = [==[update AppInfo set AgentVersion = 'aaaabbbcccc']==]
 sqExec(c_db, sq)
 print ( sqIsTableExist(c_db, 'AppInfo') )
-
+--]]
 
 
