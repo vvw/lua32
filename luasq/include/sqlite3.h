@@ -53,8 +53,8 @@
 	static const int SQLITE_FORMAT = 24   /* Auxiliary database format error */;
 	static const int SQLITE_RANGE = 25   /* 2nd parameter to sqlite3_bind out of range */;
 	static const int SQLITE_NOTADB = 26   /* File opened that is not a database file */;
-  static const int SQLITE_NOTICE =     27   /* Notifications from sqlite3_log() */;
-  static const int SQLITE_WARNING =    28   /* Warnings from sqlite3_log() */;
+  	static const int SQLITE_NOTICE =     27   /* Notifications from sqlite3_log() */;
+  	static const int SQLITE_WARNING =    28   /* Warnings from sqlite3_log() */;
 	static const int SQLITE_ROW = 100  /* sqlite3_step() has another row ready */;
 	static const int SQLITE_DONE = 101  /* sqlite3_step() has finished executing */;
 	static const int SQLITE_IOERR_READ = (SQLITE_IOERR | (1<<8));
