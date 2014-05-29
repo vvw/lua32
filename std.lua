@@ -101,7 +101,7 @@ function checkUtf8Codepage()
   ASSERT(charcode("驾") == "E9A9BE" )
 end
 
--- 打印table 的key, value
+-- print table's key and value
 function printkv(t)
 	for k in pairs(t) do
 		print (k, t[k])
