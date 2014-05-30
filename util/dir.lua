@@ -13,18 +13,19 @@ require 'std'
 -- return all files name of current dir and it's subdir 
 -- arguments
 --     example: '*.lua'
-function allfiles(filespattern)
+function fnames(filespattern, dir)
   local t = {}
   local cmd = [==[
-    dir /b /s /a:-D %cd%\]==]
-  cmd = cmd .. filespattern
+    dir /b /s /a:-D ]==]
+  local dr = dir or [[%cd%\]]
+  cmd = cmd .. dr .. filespattern
   local f = io.popen(cmd) 
   for line in f:lines() do t[#t+1] = line end
   return t
 end
 
 local function test()
-  local t = allfiles('*.lua')
+  local t = fnames('*.lua')
   printkv(t)
 end
 
