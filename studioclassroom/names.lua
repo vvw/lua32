@@ -17,7 +17,7 @@ end
 function renamedir(oldnamespace, newnamespace)
 	local bat = {
 		"@echo off\n",
-		"cd %cd%\\src\\com\\yingsoft\\\n",
+		"cd %cd%\\src\\com\\soft\\\n",
 		'ren '.. oldnamespace .. ' ' .. newnamespace
 	}
 	local fw = assert(io.open("renamedir.bat", "w"))
