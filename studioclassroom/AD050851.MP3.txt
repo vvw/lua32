@@ -1,0 +1,254 @@
+﻿<CHP=1,Managing Your Emotions in the Workplace>
+
+<TIME=00:00.0>
+<ORG>Managing Your Emotions in the Workplace<\ORG>
+<TRL>職場情緒管理<\TRL>
+
+<TIME=00:23.1>
+<ORG>◆ Reprinted with the permission of AdvancingWomen.com, www.advancingwomen.com
+
+<\ORG>
+<TRL><\TRL>
+ 
+<TIME=00:24.1>
+<ORG>Success at work means channeling your emotional energy into productive activities
+<\ORG> 
+<TRL>要在工作上成功，就要導引您的情緒能量，使產值增加
+<\TRL>
+
+<CHP=2,    August 1>
+
+<TIME=00:30.3>
+<ORG>August 1<\ORG>
+<TRL>August 1<\TRL>
+
+<TIME=00:30.8>
+<ORG>A big part of achieving success is learning to manage your emotions.<\ORG>
+<TRL>學會管理你的情緒是邁向成功重要的一環。<\TRL>
+
+<TIME=00:35.6>
+<ORG>We all have hot buttons that can lead us to become anxious, angry or even burned-out.<\ORG>
+<TRL>我們每個人都有自己的「地雷區」，一旦碰觸就會使我們焦慮、憤怒或甚至元氣盡失。<\TRL>
+<VO2>hot button[#hot buttons#] (n phr) 地雷區；敏感點 
+a subject or concern that is important to people and causes a strong emotional response or reaction when it is discussed or considered<\VO2>
+<VO2>burned-out[] (adj) 倦怠的；倦勤的；筋疲力盡的 
+experiencing a loss of energy and enthusiasm caused by stress, or from having worked too hard for too long<\VO2>
+
+<TIME=00:42.4>
+<ORG>Learning to be aware of our feelings, as well as the surrounding situation, will allow us to develop alternate responses and redirect our emotions in positive, constructive ways. 
+<\ORG>
+<TRL>學著意識到自己的感受或周遭環境的現況，可幫助我們發展出不同的反應方式，並對情緒作正向、具建設性的導引。
+<\TRL>
+
+<TIME=00:54.4>
+<ORG>All of us face moments when we experience anxiety on the job.<\ORG>
+<TRL>我們每個人在工作中都有面對焦慮的經驗，<\TRL>
+
+<TIME=00:59.0>
+<ORG>The important thing is to zero in on precisely what's making you uncomfortable and turn it into an opportunity to learn.<\ORG>
+<TRL>但重要的聚焦是分析出真正使我們不高興的原因，並將它轉化成學習的機會。<\TRL>
+
+<TIME=01:07.3>
+<ORG>If your supervisor questions your performance, for example, try to turn him into a mentor who will personally help you do better through coaching and feedback. 
+<\ORG>
+<TRL>舉例而言，如果上司對你的表現有所質疑，試著讓他作你的師傅，透過個人的指導和回饋幫助你進步。
+<\TRL>
+
+<CHP=3,        Tips for controlling emotions>
+
+<TIME=01:17.3>
+<ORG>Tips for controlling emotions<\ORG>
+<TRL>控制情緒的祕訣<\TRL>
+
+<TIME=01:20.3>
+<ORG>When something does not go as you expected and you feel anxious or upset, it helps to understand that these feelings are part of the package.<\ORG>
+<TRL>當事情進行不如預期，讓你感到焦慮心煩時，若能瞭解這些情緒是不可避免的，將會大有幫助。<\TRL>
+<VOC><04:36.0><04:38.0>part of the package[] (n phr) 
+something included as a component in a set of things or circumstances that must be accepted together and not separately<\VOC>
+
+<TIME=01:28.7>
+<ORG>The most seasoned professionals still feel anxious at times.<\ORG>
+<TRL>就算是最老練的專業人士，有時候還是會感到焦慮。<\TRL>
+<VOC><04:38.4><04:40.0>seasoned[] (adj) 
+having a lot of experience doing something and knowing how to do it well<\VOC>
+
+<TIME=01:33.3>
+<ORG>The trick is to keep it under control.<\ORG>
+<TRL>訣竅就是不要讓這些情緒失控。<\TRL>
+
+<TIME=01:36.1>
+<ORG>You have to decide to take each day as it comes.<\ORG>
+<TRL>你必須下定決心，好好應付每一天。<\TRL>
+
+<TIME=01:39.5>
+<ORG>Do your planning, tend to your own job, be obsessive about details, produce the best quality product or service you can, and success will come.
+<\ORG>
+<TRL>作好計畫，專注於自己的工作，對細節絕不放過，盡你所能的作出最佳的產品或服務，這樣成功就會隨之而來。
+<\TRL>
+
+<TIME=01:50.7>
+<ORG>One technique, which may help keep you on an even keel in your work, is to develop a systems approach to your job.<\ORG>
+<TRL>有一種方法可以幫助你工作時平靜穩定，那就是發展出工作的系統程序。<\TRL>
+<VOC><04:40.4><04:42.2>on an even keel[] (idiom) 
+calm and not likely to change suddenly<\VOC>
+<VO2>systems approach[] (n phr) 系統化的步驟 
+a philosophy that involves taking a look at the entire situation and considering how its separate elements are affected by one another before breaking it into its individual components and working on them<\VO2>
+
+<TIME=01:58.6>
+<ORG>Set priorities and do first things first.<\ORG>
+<TRL>訂定優先順序，優先的事先做，<\TRL>
+
+<TIME=02:02.3>
+<ORG>Use checklists.<\ORG>
+<TRL>並列出工作表。<\TRL>
+
+<TIME=02:04.0>
+<ORG>Try to put more structure in your job so you're not drained by hundreds of small decisions.<\ORG>
+<TRL>試著讓工作更結構化，免得你被密密麻麻的小決策所榨乾。<\TRL>
+
+
+<TIME=02:10.1>
+<ORG>Save your energy for the momentous decisions.<\ORG>
+<TRL>把自己的精力留在作重大決策上。<\TRL>
+
+<TIME=02:13.1>
+<ORG>This will allow you to devote more time and reflection to the most pivotal items.<\ORG>
+<TRL>這樣你才有更多的時間思考最核心的重要事項。<\TRL>
+<VOC><04:42.8><04:44.3>pivotal[] (adj)  
+central and important because other things depend on it <\VOC>
+
+<TIME=02:18.5>
+<ORG>Be sure to get adequate feedback from your clients and supervisor.<\ORG>
+<TRL>還有，務必從客戶或是主管那裡尋求適當的回饋，<\TRL>
+
+<TIME=02:23.2>
+<ORG>Then you can be very clear on the type and quantity of work that is expected of you. 
+<\ORG>
+<TRL>這樣你才會清楚他們對你工作型態和產品的期待。
+<\TRL>
+
+<CHP=4,    August 2>
+
+<TIME=02:28.4>
+<ORG>August 2<\ORG>
+<TRL>August 2<\TRL>
+
+<CHP=5,        Preventing burnout>
+
+<TIME=02:30.0>
+<ORG>Preventing burnout<\ORG>
+<TRL>預防倦怠<\TRL>
+
+<TIME=02:32.4>
+<ORG>If you start to feel any of the symptoms of burnout─excessive tiredness, distraction, lack of interest, a vague sense of futility─immediately take corrective action.<\ORG>
+<TRL>過度疲勞、精神渙散、興趣缺缺、一種恍惚的無力挫敗感--如果你有了其中任何一種倦怠的症狀，要馬上採取修正的行動。<\TRL>
+<VOC><04:44.4><04:46.1>futility[] (n) 
+the condition of achieving no result or being unsuccessful <\VOC>
+
+<TIME=02:45.1>
+<ORG>It's not uncommon for dedicated professionals to approach the precipice of burnout.<\ORG>
+<TRL>認真投入的專業人士，發生倦怠的危機是很尋常的，<\TRL>
+<VOC><04:46.4><04:47.8>precipice[] (n) 
+a dangerous situation that could lead to harm or failure<\VOC>
+
+<TIME=02:50.3>
+<ORG>Many are passionate about their mission and put in long, hard hours to accomplish it.<\ORG>
+<TRL>他們很多人都對自己的使命充滿熱情，辛勤投注很多時間為要達成目標；<\TRL>
+
+<TIME=02:56.2>
+<ORG>The fact is, after a certain point, one loses perspective and mental sharpness.<\ORG>
+<TRL>但事實上，過了一段時間後，他看待事物的觀點和心智敏銳度都會模糊掉，<\TRL>
+
+<TIME=03:02.0>
+<ORG>The harder you work, the less you accomplish. 
+<\ORG>
+<TRL>你做得愈認真，成果會愈差。
+<\TRL>
+
+<TIME=03:05.8>
+<ORG>Burnout is a definite workplace nosedive, so learn to recognize the symptoms and take the necessary preventative actions: 
+<\ORG>
+<TRL>倦怠是你目前工作狀況一種明顯下跌的現象，所以要學習檢視徵兆，並採取必要的防範措施：
+<\TRL>
+
+<TIME=03:14.2>
+<ORG>● First, cut back on your actual hours, but increase the intensity of your focus, so those hours will be more productive. 
+<\ORG>
+<TRL>● 第一，縮減實際的工作時數，但增強專注力，這樣工作起來會更有效率。
+<\TRL>
+
+<TIME=03:22.9>
+<ORG>● Take a vacation, even if it's only a long weekend or, in a crunch, an afternoon off.<\ORG>
+<TRL>● 就算只是延長週末假期，也可以去度個假；或是在危機時刻，放自己下午半天假。<\TRL>
+<VOC><04:48.1><04:49.7>crunch[] (n) 
+a critical situation with a lack of time or resources which forces one to quickly make a decision or act<\VOC>
+
+<TIME=03:29.6>
+<ORG>If you have trouble doing this, you'd better start mastering the art of delegation.
+<\ORG>
+<TRL>如果你覺得自己做不到，最好開始熟稔授權的藝術。
+<\TRL>
+
+<TIME=03:35.4>
+<ORG>● One of the best stress relievers is exercise.<\ORG>
+<TRL>● 運動是消除壓力的最佳方式之一，<\TRL>
+
+<TIME=03:39.1>
+<ORG>Schedule a walk or workout at least once a day, even if it's during lunch. 
+<\ORG>
+<TRL>每週至少排定一次走路或是體能訓練，就算利用午休時間也可以。
+<\TRL>
+
+<TIME=03:44.9>
+<ORG>● Plan an outing.<\ORG>
+<TRL>● 安排一次出遊。<\TRL>
+
+<TIME=03:46.4>
+<ORG>Go to a concert.<\ORG>
+<TRL>聆賞音樂會。<\TRL>
+
+<TIME=03:48.3>
+<ORG>Take your child, a niece or nephew to the zoo or to a children's museum.<\ORG>
+<TRL>帶孩子、姪子或姪女去動物園或是兒童博物館。<\TRL>
+
+<TIME=03:53.6>
+<ORG>Volunteer for a cause you believe in.<\ORG>
+<TRL>為你認同的活動作義工。<\TRL>
+
+<TIME=03:56.4>
+<ORG>Try a new hobby, like sailing, mountain climbing or even gourmet cooking to refresh your spirit.
+<\ORG>
+<TRL>為你認同的活動作義工。嘗試新的嗜好，像是駕船、爬山，或甚至學習美食烹飪，讓自己的心靈煥然一新。
+<\TRL>
+
+<TIME=04:03.1>
+<ORG>● Get out and meet new people; learn new things.<\ORG>
+<TRL>● 出去認識新朋友、學習新事物。<\TRL>
+
+<TIME=04:06.8>
+<ORG>This not only alleviates boredom, it can reinvigorate you.
+<\ORG>
+<TRL>這不但能舒緩煩悶，還能使你恢復活力。
+<\TRL>
+
+<TIME=04:11.6>
+<ORG>In the end, remember that you are in charge of your emotions.<\ORG>
+<TRL>最後，記住你是自己情緒的主人。<\TRL>
+
+<TIME=04:15.6>
+<ORG>Although you cannot control every event in your workplace, you can control your reactions to make them positive, constructive ones.<\ORG>
+
+<TRL>雖然你無法掌控工作中所有的大小事件，但你可以控制自己的反應，讓它正向而具建設性。<\TRL>
+
+<TIME=04:24.1>
+<ORG>This will put you in charge of your own "space" at work.<\ORG>
+<TRL>這樣你就可以成為自己工作領域中的主人。<\TRL>
+
+<TIME=04:27.9>
+<ORG>That's as much as anyone can ask and as much as anyone needs to succeed. 
+<\ORG>
+<TRL>這是每個人都能做到的，也是成功所必須的。 
+<\TRL>
+
+<TIME=04:33.5>
+<EOS=04:33.5>
